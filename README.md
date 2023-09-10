@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: coding pass time more than sleeping
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedos999)](https://git.io/streak-stats)
-  <img align="right" alt="Coding" width="400" src="https://docs.flutter.dev/assets/images/dash/dash-fainting.gif">
