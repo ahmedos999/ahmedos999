@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+leveling up my front-end skills using my favorites languages Dart and JavaScript
 <!--
 **ahmedos999/ahmedos999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: coding pass time more than sleeping
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedos999)](https://git.io/streak-stats)
+<img align="right" alt="Coding" width="400" src="[add your link 
+  here](https://logowik.com/content/uploads/images/flutter5786.jpg)https://logowik.com/content/uploads/images/flutter5786.jpg">
