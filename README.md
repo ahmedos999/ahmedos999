@@ -1,5 +1,6 @@
-### Hi there 👋
-leveling up my front-end skills using my favorites languages Dart and JavaScript
+### Hi Friend </>
+a software engineer with a passion for coding creating digital staff  
+currently am leveling up my front-end skills using my favorites languages Dart and JavaScript
 <!--
 **ahmedos999/ahmedos999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
