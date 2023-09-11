@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ahmed-osman-61783223a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedos990&hide=c++)
