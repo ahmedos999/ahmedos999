@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedos990&hide=c++)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedos999&hide=c++,cmake)
