@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Check my Work and Experience, and feel free to connect with me</h3>
 <p align="left">
-<a href="https://www.behance.net/ahmedxosman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.behance.net/ahmedxosman" target="blank"><img align="center"  color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-osman-61783223a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 </p>
