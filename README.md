@@ -1,5 +1,5 @@
-### Hi Friend </>
-a software engineer with a passion for coding creating digital staff  
+### HELLO Developer </>
+I am a software engineer with a passion for coding creating digital products  
 currently am leveling up my front-end skills using my favorite languages Dart and JavaScript
 using:
 Bloc for Flutter apps
