@@ -1,9 +1,5 @@
 ### Hello World </>
-I am a software engineer with a passion for coding creating digital products  
-currently am leveling up my front-end skills using my favorite languages Dart and JavaScript
-using:
-Bloc for Flutter apps
-redux for React apps
+I am a software engineer with a passion for coding, and solving complex problems,
 <!--
 **ahmedos999/ahmedos999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
