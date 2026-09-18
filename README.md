@@ -1,5 +1,4 @@
-### Hello World </>
-I am a software engineer with a passion for coding, and solving complex problems,
+
 <!--
 **ahmedos999/ahmedos999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: coding pass time more than sleeping
 -->
+# Hi, I'm Ahmed 👋
+
+I'm a Frontend Developer based in Dubai, specializing in React,
+Next.js and TypeScript.
+
+## About Me
+
+- 🔭 Currently building a retail SaaS platform
+- 🌱 Learning frontend architecture and automated testing
+- 💼 More than three years of frontend development experience
+- 🎯 Interested in product and SaaS teams
+
+## Technologies
+
+React · Next.js · TypeScript · TanStack · Tailwind CSS  
+Node.js · Express · PostgreSQL · Drizzle ORM
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedos999)](https://git.io/streak-stats)
 
 <h3 align="left">Check my Work and Experience, and feel free to connect with me</h3>
