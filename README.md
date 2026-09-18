@@ -29,6 +29,9 @@ Next.js and TypeScript.
 
 React · Next.js · TypeScript · TanStack · Tailwind CSS  
 Node.js · Express · PostgreSQL · Drizzle ORM
+
+<br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedos999)](https://git.io/streak-stats)
 
 <h3 align="left">Check my Work and Experience, and feel free to connect with me</h3>
