@@ -34,9 +34,6 @@ Node.js · Express · PostgreSQL · Drizzle ORM
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedos999)](https://git.io/streak-stats)
 
-<h3 align="left">Check my Work and Experience, and feel free to connect with me</h3>
-<h3 align="left">open to any new projects</h3>
-<a href="https://www.linkedin.com/in/ahmed-osman-61783223a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 </p>
 
